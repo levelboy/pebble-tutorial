@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "levelboy@gmail.com",
+    "longName": "Tutorial",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "4ad9a82b-0bd1-4284-b6c0-2e8c7f7f7e86",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
